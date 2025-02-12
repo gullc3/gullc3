@@ -25,7 +25,9 @@
 
 ## Let's Connect! 🤝 ##
 
-📧 Feel free to reach out via LinkedIn or Email. I'm always open to collaborations, discussions, and learning opportunities!
+📧 Feel free to reach out via LinkedIn or Email. I'm always open to collaborations, discussions, and learning opportunities!  
+📧 Email: gulcegul26@gmail.com  
+💼 LinkedIn: [Gülce Gül](https://www.linkedin.com/in/gulcegul/)
 
 🌟 Don't forget to check out my projects and give a ⭐ if you find something interesting!
 
