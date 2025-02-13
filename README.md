@@ -17,8 +17,8 @@
 ## Skills & Tools 🧰 ##
 
 * 🔹 **_Programming:_**  Python, SQL, R, Java, JavaScript, MATLAB
-* 🔹 **_Data Analysis & Visualization:_**  Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
-* 🔹 **_Machine Learning:_**  Scikit-learn, TensorFlow, PyTorch
+* 🔹 **_Data Analysis & Visualization:_**  Pandas, NumPy, Matplotlib, Power BI, Tableau
+* 🔹 **_Machine Learning:_**  TensorFlow
 * 🔹 **_Project Management:_**  Jira, ClickUp, Trello, Slack
 * 🔹 **_Version Control:_**  Git, GitHub
 * 🔹 **_Languages:_**  English, Turkish, German (Intermediate)
